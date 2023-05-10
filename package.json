@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jorvict/JS_Moderno.git"
+    "url": "git+https://github.com/Jorvict/calculadoraConsumosPropinas"
   },
   "keywords": [
     "[\"JSon\"",
@@ -17,9 +17,9 @@
   "author": "Jorvict Piña",
   "license": "JED",
   "bugs": {
-    "url": "https://github.com/Jorvict/JS_Moderno/issues"
+    "url": "https://github.com/Jorvict/calculadoraConsumosPropinas/issues"
   },
-  "homepage": "https://github.com/Jorvict/JS_Moderno#readme",
+  "homepage": "https://github.com/Jorvict/calculadoraConsumosPropinas#readme",
   "dependencies": {
     "json-server": "^0.17.0"
   }
