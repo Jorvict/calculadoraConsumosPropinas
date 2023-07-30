@@ -101,7 +101,7 @@ function mostrarSecciones(){
 
 function obtenerPlatillos(){
 
-    const url = 'https://serverplatillos.herokuapp.com/platillos';
+    const url = 'https://dbplatillos.up.railway.app/platillos';
 
     fetch(url)
         .then( respuesta => respuesta.json() )
